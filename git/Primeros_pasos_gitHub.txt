@@ -7,3 +7,12 @@ Uso de gitHub:
 
 Instrucciones para generar clave SSH:
 https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
+
+
+Comandos básicos git:
+git clone: bajar a local repositorio de gitHub
+git add: indicar un fichero que se incluirá en el commit
+git commit: commit (punto de retorno)
+git push:
+
+OJO!! Cada vez que modifico un archivo, no basta salvar el archivo, debo ejecutar add de nuevo para que esos cambios cuenten para el commit
