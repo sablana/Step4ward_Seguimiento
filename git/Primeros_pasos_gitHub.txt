@@ -1,0 +1,9 @@
+Uso de gitHub:
+
+1/ Crear claves pública y privada
+2/ Añadimos la clave pública a GITHUB
+3/ A partir de ahí se pueden clonar repositorios con: git clone <nombre_repositorio>
+4/ Crear repositorio en gitHub: en Repositorios...clic en New. Una vez creado un repositorio, lo puedes clonar a tu máquina.
+
+Instrucciones para generar clave SSH:
+https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
